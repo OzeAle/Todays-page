@@ -1,16 +1,15 @@
-
-# Todays-page
 <html>
 
-<style>
-  .red-text {
-    color: red;
-  }
-</style>
+
 
 <h2 class="red-text">CatPhotoApp</h2>
 <main>
   <p class="red-text">Click here to view more <a href="#">cat photos</a>.</p>
+  <style>
+  .red-text {
+    color: red;
+  }
+</style>
   
 <p1>This is a cat first page, that implements only one educational function.</p1>
 
