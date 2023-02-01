@@ -2,10 +2,6 @@
 # Todays-page
 <html>
 
-<head>
-<title>A little cure cat</title>
-</head>
-
 <style>
   .red-text {
     color: red;
