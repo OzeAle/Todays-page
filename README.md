@@ -6,10 +6,16 @@
 <title>A little cure cat</title>
 </head>
 
-<div>
-<body>
-<h1>CatPhotoPage</h1>
+<style>
+  .red-text {
+    color: red;
+  }
+</style>
 
+<h2 class="red-text">CatPhotoApp</h2>
+<main>
+  <p class="red-text">Click here to view more <a href="#">cat photos</a>.</p>
+  
 <p1>This is a cat first page, that implements only one educational function.</p1>
 
 <a href="#">
@@ -17,6 +23,7 @@
 alt="A cute orange cat lying on it's back">
 </a>
 
+  <div>
 <p>Things cat love</p>
 
 <ul>
@@ -33,6 +40,8 @@ alt="A cute orange cat lying on it's back">
 <li>Cutting smells</li>
 </ol>
 
+  </div>
+    
 <form action="https://www.freecatphotoapp.com/submit-cat-photo">
 
 <label for="lovely">
