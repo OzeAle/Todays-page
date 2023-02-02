@@ -27,6 +27,9 @@
   .red-text {
     color: red;
   }
+  p {
+    font-size: 10px;
+  }
 </style>
   
 <p1>This is a cat first page, that implements only one educational function.</p1>
@@ -52,6 +55,10 @@ alt="A cute orange cat lying on it's back">
 <li>Dogs</li>
 <li>Cutting smells</li>
 </ol>
+    
+<p>
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
 
   </div>
     
@@ -63,6 +70,39 @@ alt="A cute orange cat lying on it's back">
 
 <label for="energetic">
 <input id="energetic" type="checkbox" name="personality" value="energetic"> Energetic
+  
+  
+  
+  
+  <head>
+  <style>
+    #left {
+
+      width: 50%;
+    }
+    #right {
+
+      width: 40%;
+    }
+    aside, section {
+      padding: 2px;
+      background-color: #ccc;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Welcome!</h1>
+  </header>
+  <section id="left">
+    <h2>Content</h2>
+    <p>Good stuff</p>
+  </section>
+  <aside id="right">
+    <h2>Sidebar</h2>
+    <p>Links</p>
+  </aside>
+</body>
 </label><br>
 
 <label for="kitty">
