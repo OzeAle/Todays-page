@@ -12,6 +12,25 @@
     color: pink;
   }
 </style> <style>
+    <style>
+  body {
+    background-color: black;
+    font-family: monospace;
+    color: green;
+  }
+  .pink-text {
+    color: pink;
+  }
+</style> <style>
+  body {
+    background-color: black;
+    font-family: monospace;
+    color: green;
+  }
+  .pink-text {
+    color: pink;
+  }
+</style>
   body {
     background-color: black;
     font-family: monospace;
