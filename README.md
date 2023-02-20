@@ -5,7 +5,46 @@
   .red-text {
     color: red;
   }
+  <style><style>
+  .red-text {
+    color: red;
+  }
   <style>
+  body {
+    background-color: black;
+    font-family: monospace;
+    color: green;
+  }
+  .pink-text {
+    color: pink;
+  }
+</style><style>
+  .red-text {
+    color: red;
+  }
+  <style>
+  body {
+    background-color: black;
+    font-family: monospace;
+    color: green;
+  }
+  .pink-text {
+    color: pink;
+  }
+</style><style>
+  .red-text {
+    color: red;
+  }
+  <style>
+  body {
+    background-color: black;
+    font-family: monospace;
+    color: green;
+  }
+  .pink-text {
+    color: pink;
+  }
+</style>
   body {<style>
   .red-text {
     color: red;
