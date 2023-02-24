@@ -1,7 +1,37 @@
-<style><style><style><link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
-<style><style><style><style><link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
-<style><style><style><style><link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
-<style><style><style><style><link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+<style><link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+<style><link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+<style><link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+<style><link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+<style><link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+<style>
+  .red-text <style><style><style>
+  .red-text {
+    color: red;
+  }<style>
+  .red-text {
+    color: red;
+  }
+  <style>
+  body {
+    background-color: black;
+    font-family: monospace;
+    color: green;
+  }<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+<style>
+  .red-text <style><style><style>
+  .red-text {
+    color: red;
+  }<style>
+  .red-text {
+    color: red;
+  }
+  <style>
+  body {
+    background-color: black;
+    font-family: monospace;
+    color: green;
+  }<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 <style>
   .red-text <style><style><style>
   .red-text {
@@ -16,10 +46,10 @@
     font-family: monospace;
     color: green;
   }
-  .pink-text {
-    color: pink;
-  }
-</style><style>
+  .red-text <style><style><style>
+  .red-text {
+    color: red;
+  }<style>
   .red-text {
     color: red;
   }
@@ -28,10 +58,7 @@
     background-color: black;
     font-family: monospace;
     color: green;
-  }
-  .pink-text {
-    color: pink;
-  }<style><link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+  }<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 <style>
   .red-text <style><style><style>
   .red-text {
@@ -46,9 +73,7 @@
     font-family: monospace;
     color: green;
   }
-  .pink-text {
-    color: pink;
-  }<style><style><style><link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+  .red-text <style><style><style><link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 <style>
   .red-text <style><style><style>
   .red-text {
@@ -63,10 +88,9 @@
     font-family: monospace;
     color: green;
   }
-  .pink-text {
-    color: pink;
-  }
-</style><style>
+  .red-text {
+    color: red;
+  }<style>
   .red-text {
     color: red;
   }
@@ -75,10 +99,7 @@
     background-color: black;
     font-family: monospace;
     color: green;
-  }
-  .pink-text {
-    color: pink;
-  }<style><link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+  }<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 <style>
   .red-text <style><style><style>
   .red-text {
@@ -93,9 +114,6 @@
     font-family: monospace;
     color: green;
   }
-  .pink-text {
-    color: pink;
-  }
   .red-text <style><style><style>
   .red-text {
     color: red;
@@ -108,23 +126,7 @@
     background-color: black;
     font-family: monospace;
     color: green;
-  }
-  .pink-text {
-    color: pink;
-  }
-</style><style>
-  .red-text {
-    color: red;
-  }
-  <style>
-  body {
-    background-color: black;
-    font-family: monospace;
-    color: green;
-  }
-  .pink-text {
-    color: pink;
-  }<style><link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+  }<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 <style>
   .red-text <style><style><style>
   .red-text {
@@ -139,9 +141,19 @@
     font-family: monospace;
     color: green;
   }
-  .pink-text {
-    color: pink;
-  }<style><style><style><link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+  .red-text <style><style><style>
+  .red-text {
+    color: red;
+  }<style>
+  .red-text {
+    color: red;
+  }
+  <style>
+  body {
+    background-color: black;
+    font-family: monospace;
+    color: green;
+  }<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 <style>
   .red-text <style><style><style>
   .red-text {
@@ -156,10 +168,10 @@
     font-family: monospace;
     color: green;
   }
-  .pink-text {
-    color: pink;
-  }
-</style><style>
+  .red-text <style><style><style>
+  .red-text {
+    color: red;
+  }<style>
   .red-text {
     color: red;
   }
@@ -168,10 +180,7 @@
     background-color: black;
     font-family: monospace;
     color: green;
-  }
-  .pink-text {
-    color: pink;
-  }<style><link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+  }<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 <style>
   .red-text <style><style><style>
   .red-text {
@@ -186,9 +195,32 @@
     font-family: monospace;
     color: green;
   }
-  .pink-text {
-    color: pink;
-  }<style><style><style><link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+  .red-text <style><style><style>
+  .red-text {
+    color: red;
+  }<style>
+  .red-text {
+    color: red;
+  }
+  <style>
+  body {
+    background-color: black;
+    font-family: monospace;
+    color: green;
+  }
+  .red-text <style><style><style>
+  .red-text {
+    color: red;
+  }<style>
+  .red-text {
+    color: red;
+  }
+  <style>
+  body {
+    background-color: black;
+    font-family: monospace;
+    color: green;
+  }<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 <style>
   .red-text <style><style><style>
   .red-text {
@@ -203,10 +235,10 @@
     font-family: monospace;
     color: green;
   }
-  .pink-text {
-    color: pink;
-  }
-</style><style>
+  .red-text <style><style><style>
+  .red-text {
+    color: red;
+  }<style>
   .red-text {
     color: red;
   }
@@ -215,10 +247,21 @@
     background-color: black;
     font-family: monospace;
     color: green;
+  }<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+<style>
+  .red-text <style><style><style>
+  .red-text {
+    color: red;
+  }<style>
+  .red-text {
+    color: red;
   }
-  .pink-text {
-    color: pink;
-  }<style><link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+  <style>
+  body {
+    background-color: black;
+    font-family: monospace;
+    color: green;
+  }<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 <style>
   .red-text <style><style><style>
   .red-text {
@@ -233,9 +276,6 @@
     font-family: monospace;
     color: green;
   }
-  .pink-text {
-    color: pink;
-  }
   .red-text <style><style><style>
   .red-text {
     color: red;
@@ -248,11 +288,12 @@
     background-color: black;
     font-family: monospace;
     color: green;
-  }
-  .pink-text {
-    color: pink;
-  }
-</style><style>
+  }<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+<style>
+  .red-text <style><style><style>
+  .red-text {
+    color: red;
+  }<style>
   .red-text {
     color: red;
   }
@@ -261,10 +302,7 @@
     background-color: black;
     font-family: monospace;
     color: green;
-  }
-  .pink-text {
-    color: pink;
-  }<style><link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+  }<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 <style>
   .red-text <style><style><style>
   .red-text {
@@ -279,9 +317,47 @@
     font-family: monospace;
     color: green;
   }
-  .pink-text {
-    color: pink;
-  }<style><style><style><link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+  .red-text <style><style><style>
+  .red-text {
+    color: red;
+  }<style>
+  .red-text {
+    color: red;
+  }
+  <style>
+  body {
+    background-color: black;
+    font-family: monospace;
+    color: green;
+  }<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+<style>
+  .red-text <style><style><style>
+  .red-text {
+    color: red;
+  }<style>
+  .red-text {
+    color: red;
+  }
+  <style>
+  body {
+    background-color: black;
+    font-family: monospace;
+    color: green;
+  }<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+<style>
+  .red-text <style><style><style>
+  .red-text {
+    color: red;
+  }<style>
+  .red-text {
+    color: red;
+  }
+  <style>
+  body {
+    background-color: black;
+    font-family: monospace;
+    color: green;
+  }<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 <style>
   .red-text <style><style><style>
   .red-text {
@@ -296,10 +372,10 @@
     font-family: monospace;
     color: green;
   }
-  .pink-text {
-    color: pink;
-  }
-</style><style>
+  .red-text <style><style><style>
+  .red-text {
+    color: red;
+  }<style>
   .red-text {
     color: red;
   }
@@ -308,10 +384,21 @@
     background-color: black;
     font-family: monospace;
     color: green;
+  }<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+<style>
+  .red-text <style><style><style>
+  .red-text {
+    color: red;
+  }<style>
+  .red-text {
+    color: red;
   }
-  .pink-text {
-    color: pink;
-  }<style><link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+  <style>
+  body {
+    background-color: black;
+    font-family: monospace;
+    color: green;
+  }<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 <style>
   .red-text <style><style><style>
   .red-text {
@@ -326,9 +413,6 @@
     font-family: monospace;
     color: green;
   }
-  .pink-text {
-    color: pink;
-  }
   .red-text <style><style><style>
   .red-text {
     color: red;
@@ -341,11 +425,12 @@
     background-color: black;
     font-family: monospace;
     color: green;
-  }
-  .pink-text {
-    color: pink;
-  }
-</style><style>
+  }<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+<style>
+  .red-text <style><style><style>
+  .red-text {
+    color: red;
+  }<style>
   .red-text {
     color: red;
   }
@@ -354,10 +439,7 @@
     background-color: black;
     font-family: monospace;
     color: green;
-  }
-  .pink-text {
-    color: pink;
-  }<style><link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+  }<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 <style>
   .red-text <style><style><style>
   .red-text {
@@ -372,9 +454,33 @@
     font-family: monospace;
     color: green;
   }
-  .pink-text {
-    color: pink;
-  }<style><style><style><link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+  .red-text <style><style><style>
+  .red-text {
+    color: red;
+  }<style>
+  .red-text {
+    color: red;
+  }
+  <style>
+  body {
+    background-color: black;
+    font-family: monospace;
+    color: green;
+  }<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+<style>
+  .red-text <style><style><style>
+  .red-text {
+    color: red;
+  }<style>
+  .red-text {
+    color: red;
+  }
+  <style>
+  body {
+    background-color: black;
+    font-family: monospace;
+    color: green;
+  }<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 <style>
   .red-text <style><style><style>
   .red-text {
@@ -389,10 +495,10 @@
     font-family: monospace;
     color: green;
   }
-  .pink-text {
-    color: pink;
-  }
-</style><style>
+  .red-text <style><style><style>
+  .red-text {
+    color: red;
+  }<style>
   .red-text {
     color: red;
   }
@@ -401,10 +507,7 @@
     background-color: black;
     font-family: monospace;
     color: green;
-  }
-  .pink-text {
-    color: pink;
-  }<style><link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+  }<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 <style>
   .red-text <style><style><style>
   .red-text {
@@ -419,6 +522,260 @@
     font-family: monospace;
     color: green;
   }
-  .pink-text {
-    color: pink;
+  .red-text <style><style><style>
+  .red-text {
+    color: red;
+  }<style>
+  .red-text {
+    color: red;
+  }
+  <style>
+  body {
+    background-color: black;
+    font-family: monospace;
+    color: green;
+  }<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+<style>
+  .red-text <style><style><style>
+  .red-text {
+    color: red;
+  }<style>
+  .red-text {
+    color: red;
+  }
+  <style>
+  body {
+    background-color: black;
+    font-family: monospace;
+    color: green;
+  }<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+<style>
+  .red-text <style><style><style>
+  .red-text {
+    color: red;
+  }<style>
+  .red-text {
+    color: red;
+  }
+  <style>
+  body {
+    background-color: black;
+    font-family: monospace;
+    color: green;
+  }
+  .red-text <style><style><style>
+  .red-text {
+    color: red;
+  }<style>
+  .red-text {
+    color: red;
+  }
+  <style>
+  body {
+    background-color: black;
+    font-family: monospace;
+    color: green;
+  }<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+<style>
+  .red-text <style><style><style>
+  .red-text {
+    color: red;
+  }<style>
+  .red-text {
+    color: red;
+  }
+  <style>
+  body {
+    background-color: black;
+    font-family: monospace;
+    color: green;
+  }
+  .red-text <style><style><style>
+  .red-text {
+    color: red;
+  }<style>
+  .red-text {
+    color: red;
+  }
+  <style>
+  body {
+    background-color: black;
+    font-family: monospace;
+    color: green;
+  }<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+<style>
+  .red-text <style><style><style>
+  .red-text {
+    color: red;
+  }<style>
+  .red-text {
+    color: red;
+  }
+  <style>
+  body {
+    background-color: black;
+    font-family: monospace;
+    color: green;
+  }
+  .red-text <style><style><style>
+  .red-text {
+    color: red;
+  }<style>
+  .red-text {
+    color: red;
+  }
+  <style>
+  body {
+    background-color: black;
+    font-family: monospace;
+    color: green;
+  }<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+<style>
+  .red-text <style><style><style>
+  .red-text {
+    color: red;
+  }<style>
+  .red-text {
+    color: red;
+  }
+  <style>
+  body {
+    background-color: black;
+    font-family: monospace;
+    color: green;
+  }
+  .red-text <style><style><style>
+  .red-text {
+    color: red;
+  }<style>
+  .red-text {
+    color: red;
+  }
+  <style>
+  body {
+    background-color: black;
+    font-family: monospace;
+    color: green;
+  }<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+<style>
+  .red-text <style><style><style>
+  .red-text {
+    color: red;
+  }<style>
+  .red-text {
+    color: red;
+  }
+  <style>
+  body {
+    background-color: black;
+    font-family: monospace;
+    color: green;
+  }
+  .red-text <style><style><style>
+  .red-text {
+    color: red;
+  }<style>
+  .red-text {
+    color: red;
+  }
+  <style>
+  body {
+    background-color: black;
+    font-family: monospace;
+    color: green;
+  }<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+<style>
+  .red-text <style><style><style>
+  .red-text {
+    color: red;
+  }<style>
+  .red-text {
+    color: red;
+  }
+  <style>
+  body {
+    background-color: black;
+    font-family: monospace;
+    color: green;
+  }
+  .red-text <style><style><style>
+  .red-text {
+    color: red;
+  }<style>
+  .red-text {
+    color: red;
+  }
+  <style>
+  body {
+    background-color: black;
+    font-family: monospace;
+    color: green;
+  }<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+<style>
+  .red-text <style><style><style>
+  .red-text {
+    color: red;
+  }<style>
+  .red-text {
+    color: red;
+  }
+  <style>
+  body {
+    background-color: black;
+    font-family: monospace;
+    color: green;
+  }<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+<style>
+  .red-text <style><style><style>
+  .red-text {
+    color: red;
+  }<style>
+  .red-text {
+    color: red;
+  }
+  <style>
+  body {
+    background-color: black;
+    font-family: monospace;
+    color: green;
+  }
+  .red-text <style><style><style>
+  .red-text {
+    color: red;
+  }<style>
+  .red-text {
+    color: red;
+  }
+  <style>
+  body {
+    background-color: black;
+    font-family: monospace;
+    color: green;
+  }
+  .red-text <style><style><style>
+  .red-text {
+    color: red;
+  }<style>
+  .red-text {
+    color: red;
+  }
+  <style>
+  body {
+    background-color: black;
+    font-family: monospace;
+    color: green;
+  }<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+<style>
+  .red-text <style><style><style>
+  .red-text {
+    color: red;
+  }<style>
+  .red-text {
+    color: red;
+  }
+  <style>
+  body {
+    background-color: black;
+    font-family: monospace;
+    color: green;
   }
